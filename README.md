@@ -1,8 +1,29 @@
-# Eyes
+# MIT Eyes Exercise
 
-## Exercise on eyes
+---
 
-###LICENSE
+## What is it
+
+---
+
+This is one of the exercises of the MITxPro-MERN course, on the "Styles and Bootstap" module.
+
+This exercise consists of creating two eyeballs (using just CSS) and make them follow the mouse movements, as if it was a person looking at the it.
+
+## Installaion
+
+---
+
+To run this code, simply fork and clone this repo, and run the index.html file using a server (everything the repo needs to run is in the files that you will be downloading when cloning the repo).
+
+## Roadmap
+
+---
+
+- Advertisment can be added to fund the development
+
+## ###LICENSE
+
 MIT License
 
 Copyright (c) 2020 John Williams
