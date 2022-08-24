@@ -8,7 +8,7 @@
 
 This is one of the exercises of the MITxPro-MERN course, on the "Styles and Bootstap" module.
 
-This exercise consists of creating two eyeballs (using just CSS) and make them follow the mouse movements, as if it was a person looking at the it.
+This exercise consists of creating two eyeballs (using just CSS) and make them follow the mouse movements, as if it was a person looking at it.
 
 ## Installaion
 
